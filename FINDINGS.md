@@ -93,3 +93,27 @@ This dataset covers only six months, so additional data would be needed to deter
 - Desk Chair generated $300.00 in estimated gross profit, the highest product-level total.
 - Notebook sold the most units at 35, but generated $134.80 in revenue.
 - Product performance differs depending on whether the metric is units sold, revenue, or estimated gross profit.
+
+- 
+### Regional and Sales Channel Performance
+
+| Region | Channel | Order Lines | Units Sold | Revenue | Estimated Gross Profit |
+|---|---|---:|---:|---:|---:|
+| East | Online | 4 | 9 | $622.50 | $225.00 |
+| North | Online | 4 | 8 | $468.40 | $195.40 |
+| South | Online | 5 | 15 | $434.25 | $197.25 |
+| North | In-Store | 3 | 9 | $298.50 | $144.50 |
+| South | In-Store | 3 | 13 | $297.00 | $128.00 |
+| West | Online | 5 | 20 | $257.05 | $146.05 |
+| East | In-Store | 3 | 16 | $178.00 | $103.00 |
+| West | In-Store | 3 | 13 | $99.20 | $62.70 |
+
+**Key insights:**
+
+- East Online generated the highest revenue at $622.50.
+- Online sales generated $1,782.20 in revenue, compared with $872.70 for in-store sales.
+- Online accounted for approximately 67.1% of total revenue.
+- West In-Store generated the lowest revenue at $99.20.
+
+These findings describe the fictional practice dataset only.
+
