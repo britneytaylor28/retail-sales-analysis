@@ -49,4 +49,27 @@ Results will be documented here after the SQL queries are run and checked.
 
 Furniture generated the highest revenue at $1,624.00, accounting for approximately 61.2% of total revenue. Home ranked second at $419.15. Office Supplies generated the lowest revenue at $248.00.
 
-These findings describe fictional practice data and should not be interpreted as real-world business performance.
+These findings describe fictional practice data and should not be interpreted as real-world business performance.    
+
+
+
+### Monthly Revenue Trends
+
+| Month | Revenue |
+|---|---:|
+| January 2025 | $253.00 |
+| February 2025 | $378.00 |
+| March 2025 | $583.45 |
+| April 2025 | $394.70 |
+| May 2025 | $348.00 |
+| June 2025 | $697.75 |
+
+**Key insights:**
+
+- June had the highest monthly revenue at $697.75.
+- January had the lowest monthly revenue at $253.00.
+- Revenue generally increased across the six-month period, with declines in April and May.
+- June revenue was approximately 176% higher than January revenue.
+
+This dataset covers only six months, so additional data would be needed to determine whether these changes reflect a recurring seasonal pattern.
+
