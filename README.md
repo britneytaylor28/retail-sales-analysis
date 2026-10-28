@@ -1,3 +1,18 @@
+
+## 📊 Interactive Tableau Dashboard
+
+Explore the published dashboard to see monthly revenue trends and revenue performance by product category.
+
+**[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/britney.taylor/viz/RetailSalesPerformanceAnalysis_17932303970290/Dashboard1)**
+
+### Key Findings
+- Total revenue after discounts: $2,654.90
+- Estimated gross profit: $1,201.90
+- Estimated gross margin: 45.3%
+- Furniture generated the highest revenue.
+- June had the highest monthly revenue.
+
+
 # Retail Sales Analysis
 
 **Author:** BritneyAnalyzes  
