@@ -117,3 +117,15 @@ This dataset covers only six months, so additional data would be needed to deter
 
 These findings describe the fictional practice dataset only.
 
+
+### Data Quality Assessment
+
+The dataset contains 30 records. Initial validation checks found:
+
+- Missing order IDs: 0
+- Missing dates: 0
+- Invalid quantities: 0
+- Invalid prices: 0
+- Invalid discount rates: 0
+
+**Conclusion:** The checks found no issues in these five validation categories. Additional checks, such as duplicate order IDs and date-format consistency, would provide further confidence in the dataset.
