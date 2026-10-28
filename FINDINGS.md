@@ -73,3 +73,23 @@ These findings describe fictional practice data and should not be interpreted as
 
 This dataset covers only six months, so additional data would be needed to determine whether these changes reflect a recurring seasonal pattern.
 
+
+### Product Performance
+
+| Product | Units Sold | Revenue | Estimated Gross Profit |
+|---|---:|---:|---:|
+| Office Desk | 4 | $814.00 | $294.00 |
+| Desk Chair | 6 | $810.00 | $300.00 |
+| Desk Lamp | 8 | $260.75 | $140.75 |
+| Wireless Mouse | 8 | $191.25 | $95.25 |
+| USB Cable | 18 | $172.50 | $118.50 |
+| Water Bottle | 9 | $158.40 | $95.40 |
+| Notebook | 35 | $134.80 | $82.30 |
+| Pen Set | 15 | $113.20 | $75.70 |
+
+**Key insights:**
+
+- Office Desk generated the highest revenue at $814.00.
+- Desk Chair generated $300.00 in estimated gross profit, the highest product-level total.
+- Notebook sold the most units at 35, but generated $134.80 in revenue.
+- Product performance differs depending on whether the metric is units sold, revenue, or estimated gross profit.
